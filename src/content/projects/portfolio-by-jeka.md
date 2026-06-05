@@ -125,7 +125,7 @@ Mucho espacio en blanco. La regla: si dudo de añadir algo, no lo añado.
 </div>
 
 <div class="not-prose mt-12">
-  <a href="/portfolio-v2/design-system" class="group block bg-white rounded-[12px] p-8 md:p-10 border border-black/5 hover:border-[#E0A4B0] transition-all">
+  <a href="/design-system" class="group block bg-white rounded-[12px] p-8 md:p-10 border border-black/5 hover:border-[#E0A4B0] transition-all">
     <span class="text-[10px] uppercase tracking-[0.3em] text-gray-400 font-bold block mb-4">Documento vivo</span>
     <h4 class="font-serif italic text-3xl md:text-4xl font-medium text-gray-900 leading-tight mb-3 group-hover:text-[#E0A4B0] transition-colors">Ver el design system completo →</h4>
     <p class="text-sm text-gray-600 leading-relaxed max-w-2xl">Tokens, jerarquía tipográfica completa, componentes, espaciado, iconografía, animaciones y brand assets. La guía viva del portfolio, donde cualquier cambio en el código se refleja automáticamente.</p>

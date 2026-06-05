@@ -10,22 +10,22 @@ const url = (path: string) => new URL(`http://localhost${path}`);
 
 describe('getLangFromUrl', () => {
   it('returns default lang (es) for the site root', () => {
-    expect(getLangFromUrl(url('/portfolio-v2/'))).toBe('es');
+    expect(getLangFromUrl(url('/'))).toBe('es');
   });
 
   it('returns default lang for ES inner pages', () => {
-    expect(getLangFromUrl(url('/portfolio-v2/about'))).toBe('es');
-    expect(getLangFromUrl(url('/portfolio-v2/projects/salonomi'))).toBe('es');
+    expect(getLangFromUrl(url('/about'))).toBe('es');
+    expect(getLangFromUrl(url('/projects/salonomi'))).toBe('es');
   });
 
   it('returns en when path is prefixed with /en', () => {
-    expect(getLangFromUrl(url('/portfolio-v2/en/'))).toBe('en');
-    expect(getLangFromUrl(url('/portfolio-v2/en/about'))).toBe('en');
-    expect(getLangFromUrl(url('/portfolio-v2/en/projects/salonomi-en'))).toBe('en');
+    expect(getLangFromUrl(url('/en/'))).toBe('en');
+    expect(getLangFromUrl(url('/en/about'))).toBe('en');
+    expect(getLangFromUrl(url('/en/projects/salonomi-en'))).toBe('en');
   });
 
   it('falls back to default lang for unknown locale prefixes', () => {
-    expect(getLangFromUrl(url('/portfolio-v2/fr/about'))).toBe('es');
+    expect(getLangFromUrl(url('/fr/about'))).toBe('es');
   });
 });
 
@@ -50,66 +50,66 @@ describe('useTranslations', () => {
 });
 
 describe('useTranslatedPath', () => {
-  it('prefixes ES paths with the base only (no locale prefix)', () => {
+  it('returns ES paths without a locale prefix', () => {
     const tp = useTranslatedPath('es');
-    expect(tp('/')).toBe('/portfolio-v2/');
-    expect(tp('/about')).toBe('/portfolio-v2/about');
+    expect(tp('/')).toBe('/');
+    expect(tp('/about')).toBe('/about');
   });
 
-  it('prefixes EN paths with the base and /en', () => {
+  it('prefixes EN paths with /en', () => {
     const tp = useTranslatedPath('en');
-    expect(tp('/about')).toBe('/portfolio-v2/en/about');
-    expect(tp('/contact')).toBe('/portfolio-v2/en/contact');
+    expect(tp('/about')).toBe('/en/about');
+    expect(tp('/contact')).toBe('/en/contact');
   });
 
   it('appends -en to project slugs when translating to EN', () => {
     const tp = useTranslatedPath('en');
-    expect(tp('/projects/salonomi')).toBe('/portfolio-v2/en/projects/salonomi-en');
+    expect(tp('/projects/salonomi')).toBe('/en/projects/salonomi-en');
   });
 
   it('strips -en from project slugs when translating to ES', () => {
     const tp = useTranslatedPath('es');
-    expect(tp('/projects/salonomi-en')).toBe('/portfolio-v2/projects/salonomi');
+    expect(tp('/projects/salonomi-en')).toBe('/projects/salonomi');
   });
 
   it('does not double-suffix a slug that already ends with -en', () => {
     const tp = useTranslatedPath('en');
-    expect(tp('/projects/salonomi-en')).toBe('/portfolio-v2/en/projects/salonomi-en');
+    expect(tp('/projects/salonomi-en')).toBe('/en/projects/salonomi-en');
   });
 
   it('respects an explicit override language', () => {
     const tp = useTranslatedPath('es');
-    expect(tp('/about', 'en')).toBe('/portfolio-v2/en/about');
+    expect(tp('/about', 'en')).toBe('/en/about');
   });
 
   it('does not modify the bare /projects/ path', () => {
     const tp = useTranslatedPath('en');
-    expect(tp('/projects/')).toBe('/portfolio-v2/en/projects/');
+    expect(tp('/projects/')).toBe('/en/projects/');
   });
 });
 
 describe('getCleanPathname', () => {
   it('returns / for the site root', () => {
-    expect(getCleanPathname(url('/portfolio-v2/'))).toBe('/');
-    expect(getCleanPathname(url('/portfolio-v2'))).toBe('/');
+    expect(getCleanPathname(url('/'))).toBe('/');
+    expect(getCleanPathname(url(''))).toBe('/');
   });
 
-  it('strips the base for ES pages', () => {
-    expect(getCleanPathname(url('/portfolio-v2/about'))).toBe('/about');
-    expect(getCleanPathname(url('/portfolio-v2/contact'))).toBe('/contact');
+  it('returns the path unchanged for ES pages', () => {
+    expect(getCleanPathname(url('/about'))).toBe('/about');
+    expect(getCleanPathname(url('/contact'))).toBe('/contact');
   });
 
   it('strips the locale prefix for EN pages', () => {
-    expect(getCleanPathname(url('/portfolio-v2/en/about'))).toBe('/about');
-    expect(getCleanPathname(url('/portfolio-v2/en/'))).toBe('/');
+    expect(getCleanPathname(url('/en/about'))).toBe('/about');
+    expect(getCleanPathname(url('/en/'))).toBe('/');
   });
 
   it('strips the -en suffix from project slugs', () => {
-    expect(getCleanPathname(url('/portfolio-v2/projects/salonomi-en'))).toBe('/projects/salonomi');
-    expect(getCleanPathname(url('/portfolio-v2/en/projects/salonomi-en'))).toBe('/projects/salonomi');
+    expect(getCleanPathname(url('/projects/salonomi-en'))).toBe('/projects/salonomi');
+    expect(getCleanPathname(url('/en/projects/salonomi-en'))).toBe('/projects/salonomi');
   });
 
   it('leaves ES project slugs untouched', () => {
-    expect(getCleanPathname(url('/portfolio-v2/projects/salonomi'))).toBe('/projects/salonomi');
+    expect(getCleanPathname(url('/projects/salonomi'))).toBe('/projects/salonomi');
   });
 });

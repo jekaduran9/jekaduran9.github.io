@@ -49,7 +49,7 @@ I rewrote the sitemap by flipping the traditional order: what we do first, who w
 
 <div class="not-prose my-16 overflow-hidden rounded-2xl">
     <img 
-        src="/portfolio-v2/pj-findasense-sitemap.svg" 
+        src="/pj-findasense-sitemap.svg" 
         alt="Findasense Sitemap" 
         class="w-full h-auto object-contain"
     />
@@ -69,14 +69,14 @@ I designed in Figma with a UI Kit built for WordPress 6.4 from day one. The rule
 <div class="not-prose my-16 space-y-10">
     <div class="animate-slide-right">
         <img 
-            src="/portfolio-v2/pj-lowfi-prototype-desktop-findasense.png" 
+            src="/pj-lowfi-prototype-desktop-findasense.png" 
             alt="Low-Fi Wireframe Desktop" 
             class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90"
         />
     </div>
     <div class="flex justify-center animate-slide-right-delayed">
         <img 
-            src="/portfolio-v2/pj-lowfi-prototype-mobile-findasense.png" 
+            src="/pj-lowfi-prototype-mobile-findasense.png" 
             alt="Low-Fi Wireframe Mobile" 
             class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90"
         />
@@ -189,7 +189,7 @@ The comma from the logo stopped being a typographic detail and became the visual
 
 <div class="not-prose mt-8">
   <img 
-    src="/portfolio-v2/Findasense/pj-findasense-coma2.png" 
+    src="/Findasense/pj-findasense-coma2.png" 
     alt="Comma applications: portrait frames, hero illustrations, testimonials, and decorative elements"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
   />
@@ -201,7 +201,7 @@ The result: a website that says what it does before saying who it is. Direct her
 
 <div class="not-prose mt-8">
   <img 
-    src="/portfolio-v2/Findasense/pf-findasense-prototype-desktop.jpg" 
+    src="/Findasense/pf-findasense-prototype-desktop.jpg" 
     alt="Final prototype desktop: full scroll of the redesigned site"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
   />
@@ -281,7 +281,7 @@ Explore the experience designed for Findasense's global ecosystem.
         </div>
         <div class="aspect-video w-full bg-gray-100 border-x border-b border-black/5 rounded-b-xl overflow-hidden shadow-xl group-hover:shadow-2xl transition-all duration-500 relative">
             <img 
-                src="/portfolio-v2/pj-findasense-prototype.png" 
+                src="/pj-findasense-prototype.png" 
                 alt="Findasense Website Preview" 
                 class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700"
             />

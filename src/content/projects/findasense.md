@@ -49,7 +49,7 @@ Reescribí el sitemap invirtiendo el orden tradicional: primero qué hacemos, de
 
 <div class="not-prose my-16 overflow-hidden rounded-2xl">
     <img 
-        src="/portfolio-v2/pj-findasense-sitemap.svg" 
+        src="/pj-findasense-sitemap.svg" 
         alt="Sitemap Findasense" 
         class="w-full h-auto object-contain"
     />
@@ -69,14 +69,14 @@ Diseñé en Figma con un UI Kit pensado para WordPress 6.4 desde el día uno. La
 <div class="not-prose my-16 space-y-10">
     <div class="animate-slide-right">
         <img 
-            src="/portfolio-v2/pj-lowfi-prototype-desktop-findasense.png" 
+            src="/pj-lowfi-prototype-desktop-findasense.png" 
             alt="Wireframe Low-Fi Desktop" 
             class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90"
         />
     </div>
     <div class="flex justify-center animate-slide-right-delayed">
         <img 
-            src="/portfolio-v2/pj-lowfi-prototype-mobile-findasense.png" 
+            src="/pj-lowfi-prototype-mobile-findasense.png" 
             alt="Wireframe Low-Fi Mobile" 
             class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90"
         />
@@ -189,7 +189,7 @@ La coma del logo dejó de ser un detalle tipográfico para convertirse en el rec
 
 <div class="not-prose mt-8">
   <img 
-    src="/portfolio-v2/Findasense/pj-findasense-coma2.png" 
+    src="/Findasense/pj-findasense-coma2.png" 
     alt="Aplicaciones de la coma del logo: marcos de retrato, hero illustrations, testimonios y elementos decorativos"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
   />
@@ -201,7 +201,7 @@ El resultado: una web que cuenta lo que hace antes que quién es. Hero directo, 
 
 <div class="not-prose mt-8">
   <img 
-    src="/portfolio-v2/Findasense/pf-findasense-prototype-desktop.jpg" 
+    src="/Findasense/pf-findasense-prototype-desktop.jpg" 
     alt="Prototipo final desktop: recorrido completo de la web rediseñada"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
   />
@@ -281,7 +281,7 @@ Explora la experiencia diseñada para el ecosistema global de Findasense.
         </div>
         <div class="aspect-video w-full bg-gray-100 border-x border-b border-black/5 rounded-b-xl overflow-hidden shadow-xl group-hover:shadow-2xl transition-all duration-500 relative">
             <img 
-                src="/portfolio-v2/pj-findasense-prototype.png" 
+                src="/pj-findasense-prototype.png" 
                 alt="Findasense Website Preview" 
                 class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700"
             />
