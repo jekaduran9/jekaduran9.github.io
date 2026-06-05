@@ -31,33 +31,33 @@ A selection of tattoos and designs created, focused on the delicacy of the line 
 
 <div class="not-prose columns-2 md:columns-3 gap-4 space-y-4 my-12">
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-rosa-red-tattoo.jpg" alt="Red Rose Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-rosa-red-tattoo.jpg" alt="Red Rose Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-colibri-tattoo.jpg" alt="Hummingbird Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-colibri-tattoo.jpg" alt="Hummingbird Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-mariposas-tattoo.jpg" alt="Butterflies Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-mariposas-tattoo.jpg" alt="Butterflies Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-ny-tattoo.png" alt="NY Stamp Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-ny-tattoo.png" alt="NY Stamp Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-frailejon-tattoo.png" alt="Frailejón Tattoo" class="w-full h-auto object-cover scale-110 hover:scale-115 transition-transform duration-500" />
+        <img src="/pj-frailejon-tattoo.png" alt="Frailejón Tattoo" class="w-full h-auto object-cover scale-110 hover:scale-115 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-hand-tattoo.jpg" alt="Hand Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-hand-tattoo.jpg" alt="Hand Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-geminis-tattoo.png" alt="Gemini Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-geminis-tattoo.png" alt="Gemini Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-mariposa-migue-tattoo.png" alt="Butterfly Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-mariposa-migue-tattoo.png" alt="Butterfly Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-rosa-bw-tattoo.JPEG" alt="B&W Rose Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-rosa-bw-tattoo.JPEG" alt="B&W Rose Tattoo" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
     <div class="break-inside-avoid border border-black/5 overflow-hidden transition-shadow duration-300">
-        <img src="/portfolio-v2/pj-diseños-disponibles-tattoo.png" alt="Available Designs" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/pj-diseños-disponibles-tattoo.png" alt="Available Designs" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" />
     </div>
 </div>

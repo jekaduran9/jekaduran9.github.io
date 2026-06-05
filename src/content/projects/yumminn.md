@@ -42,7 +42,7 @@ Para la segunda iteración, trabajé estrechamente con el equipo de operaciones 
 
 <div class="not-prose my-16">
     <img
-        src="/portfolio-v2/pj-yumminn-designsystem.png"
+        src="/pj-yumminn-designsystem.png"
         alt="Design system de Yumminn"
         class="w-full h-auto object-contain"
     />

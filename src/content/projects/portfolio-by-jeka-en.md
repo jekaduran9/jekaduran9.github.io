@@ -125,7 +125,7 @@ Lots of it. The rule: if I'm unsure about adding something, I don't add it.
 </div>
 
 <div class="not-prose mt-12">
-  <a href="/portfolio-v2/design-system" class="group block bg-white rounded-[12px] p-8 md:p-10 border border-black/5 hover:border-[#E0A4B0] transition-all">
+  <a href="/design-system" class="group block bg-white rounded-[12px] p-8 md:p-10 border border-black/5 hover:border-[#E0A4B0] transition-all">
     <span class="text-[10px] uppercase tracking-[0.3em] text-gray-400 font-bold block mb-4">Living document</span>
     <h4 class="font-serif italic text-3xl md:text-4xl font-medium text-gray-900 leading-tight mb-3 group-hover:text-[#E0A4B0] transition-colors">See the full design system →</h4>
     <p class="text-sm text-gray-600 leading-relaxed max-w-2xl">Tokens, full typographic hierarchy, components, spacing, iconography, animation and brand assets. The portfolio's living guide, where every change in the code is reflected automatically.</p>

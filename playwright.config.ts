@@ -1,7 +1,7 @@
 import { defineConfig, devices } from '@playwright/test';
 
 const PORT = 4321;
-const BASE_PATH = '/portfolio-v2';
+const BASE_PATH = '';
 
 export default defineConfig({
   testDir: './tests/e2e',

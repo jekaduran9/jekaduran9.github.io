@@ -42,7 +42,7 @@ For the second iteration, I worked closely with the operations team and did fiel
 
 <div class="not-prose my-16">
     <img
-        src="/portfolio-v2/pj-yumminn-designsystem.png"
+        src="/pj-yumminn-designsystem.png"
         alt="Yumminn design system"
         class="w-full h-auto object-contain"
     />
