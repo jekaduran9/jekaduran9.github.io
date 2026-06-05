@@ -27,7 +27,7 @@ const customCovers: Record<string, any> = {
 	<section class="relative w-full h-screen flex flex-col justify-between overflow-hidden">
 		<div class="absolute inset-0 z-0">
 			<img
-				src={`${import.meta.env.BASE_URL}/hero-background.jpeg`}
+				src={`/hero-background.jpeg`}
 				alt="Jessica Duran - Product Designer"
 				class="w-full h-full object-cover grayscale brightness-90"
 			/>
@@ -93,7 +93,7 @@ const customCovers: Record<string, any> = {
 		
 		{sortedProjects.length > 0 && (() => {
 			const featured = sortedProjects[0];
-			const featuredImagePath = featured.data.image?.startsWith('/') ? `${import.meta.env.BASE_URL}${featured.data.image}` : featured.data.image;
+			const featuredImagePath = featured.data.image;
 			const featuredYear = featured.data.pubDate.getFullYear();
 			return (
 				<a
@@ -137,7 +137,7 @@ const customCovers: Record<string, any> = {
 
 		<div id="projects-grid" class="grid grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
 			{sortedProjects.map((project, i) => {
-				const imagePath = project.data.image?.startsWith('/') ? `${import.meta.env.BASE_URL}${project.data.image}` : project.data.image;
+				const imagePath = project.data.image;
 				const isFeatured = i === 0;
 				return (
 					<a
