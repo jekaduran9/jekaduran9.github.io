@@ -4,7 +4,7 @@ test.describe('Project detail pages', () => {
   test('clicking a project card opens the ES detail page', async ({ page }) => {
     await page.goto('/');
 
-    const firstCard = page.locator('a.project-card').first();
+    const firstCard = page.locator('a.project-card:not(.is-featured)').first();
     const href = await firstCard.getAttribute('href');
     expect(href).toMatch(/\/projects\/[a-z0-9-]+/);
 
@@ -17,7 +17,7 @@ test.describe('Project detail pages', () => {
   test('the EN equivalent project page resolves via -en slug', async ({ page }) => {
     await page.goto('/en/');
 
-    const firstCard = page.locator('a.project-card').first();
+    const firstCard = page.locator('a.project-card:not(.is-featured)').first();
     const href = await firstCard.getAttribute('href');
     expect(href).toMatch(/\/en\/projects\/[a-z0-9-]+-en/);
 
