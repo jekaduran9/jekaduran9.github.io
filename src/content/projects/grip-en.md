@@ -4,7 +4,7 @@ description: "Mobile-first optimization for a female-led hormonal health and fer
 role: "UX/UI Designer Intern"
 tools: ["Figma", "Wix", "Google Analytics", "Hotjar"]
 type: "E-commerce & Health Tech"
-image: "/pj-grip-cover.png"
+image: "/pj-grip-cover.avif"
 pubDate: 2024-03-03
 featured: true
 lang: "en"

@@ -4,7 +4,7 @@ description: "Strategic redesign to transform a corporate website into a global 
 role: "UX/UI Designer"
 tools: ["Figma", "Design Thinking", "WordPress 6.4"]
 type: "Digital Ecosystem"
-image: "/pj-findasense-cover.png"
+image: "/pj-findasense-cover.avif"
 pubDate: 2024-03-07
 featured: true
 lang: "en"
@@ -71,7 +71,7 @@ I designed in Figma with a UI Kit built for WordPress 6.4 from day one. The rule
             class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="655" />
     </div>
     <div class="flex justify-center animate-slide-right-delayed">
-        <img src="/pj-lowfi-prototype-mobile-findasense.png" 
+        <img src="/pj-lowfi-prototype-mobile-findasense.avif" 
             alt="Low-Fi Wireframe Mobile" 
             class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="1839" />
     </div>
@@ -182,7 +182,7 @@ A single typeface — **Montserrat** — used across all weights to keep a coher
 The comma from the logo stopped being a typographic detail and became the visual device that ties the whole system together. I used it as a portrait container, a frame for hero illustrations, a background for testimonials, and a decorative element. One shape, many roles — same form, different weights.
 
 <div class="not-prose mt-8">
-  <img src="/Findasense/pj-findasense-coma2.png" 
+  <img src="/Findasense/pj-findasense-coma2.avif" 
     alt="Comma applications: portrait frames, hero illustrations, testimonials, and decorative elements"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1915" height="2432" />
 </div>
@@ -192,7 +192,7 @@ The comma from the logo stopped being a typographic detail and became the visual
 The result: a website that says what it does before saying who it is. Direct hero, success stories on the first scroll, frictionless form, and a coherent visual identity from start to finish.
 
 <div class="not-prose mt-8">
-  <img src="/Findasense/pf-findasense-prototype-desktop.jpg" 
+  <img src="/Findasense/pf-findasense-prototype-desktop.avif" 
     alt="Final prototype desktop: full scroll of the redesigned site"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="3000" height="1013" />
   <p class="text-[10px] uppercase tracking-[0.3em] text-gray-400 font-bold mt-4">Full scroll · Desktop</p>
@@ -270,7 +270,7 @@ Explore the experience designed for Findasense's global ecosystem.
             </div>
         </div>
         <div class="aspect-video w-full bg-gray-100 border-x border-b border-black/5 rounded-b-xl overflow-hidden shadow-xl group-hover:shadow-2xl transition-all duration-500 relative">
-            <img src="/pj-findasense-prototype.png" 
+            <img src="/pj-findasense-prototype.avif" 
                 alt="Findasense Website Preview" 
                 class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700" loading="lazy" decoding="async" />
             <div class="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors flex items-center justify-center">

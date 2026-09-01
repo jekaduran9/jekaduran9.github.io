@@ -4,7 +4,7 @@ description: "From a confusing MVP to a leading SaaS solution: optimizing digita
 role: "UX/UI Designer"
 tools: ["Figma", "Google Analytics", "Adobe Illustrator", "Notion", "User Testing"]
 type: "SaaS Product & Web-app"
-image: "/pj-yumminn-cover.png"
+image: "/pj-yumminn-cover.avif"
 pubDate: 2024-03-04
 featured: true
 lang: "en"
@@ -41,7 +41,7 @@ For the second iteration, I worked closely with the operations team and did fiel
 **The big finding:** Once the technical functionality was resolved, the challenge was differentiation. Restaurants didn't want a generic tool; they wanted the WebApp to be an extension of their own brand. We transformed the interface into a personalized experience that breathes each local's identity, ensuring that payment is not just a procedure, but the perfect close to the dinner.
 
 <div class="not-prose my-16">
-    <img src="/pj-yumminn-designsystem.png"
+    <img src="/pj-yumminn-designsystem.avif"
         alt="Yumminn design system"
         class="w-full h-auto object-contain" loading="lazy" decoding="async" width="11114" height="2700" />
 </div>
