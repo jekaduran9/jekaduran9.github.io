@@ -43,7 +43,7 @@ export const ui = {
     'categories.uxui': 'UX/UI',
     'categories.tattoo': 'Tatuaje',
     'categories.branding': 'Branding',
-    'categories.illustrations': 'Illustraciones',
+    'categories.illustrations': 'Ilustraciones',
     'categories.social': 'Social Media',
     'categories.community': 'Comunidad',
   },

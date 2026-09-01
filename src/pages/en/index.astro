@@ -16,6 +16,9 @@ const projects = await getCollection('projects', ({ data }) => {
 });
 const sortedProjects = projects.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+// El filtro de Ilustraciones se muestra solo cuando haya proyectos con category: "Ilustraciones".
+const hasIllustrations = projects.some((p) => p.data.category === 'Ilustraciones');
+
 const customCovers: Record<string, any> = {
   'salonomi': SalonomiCover,
   'portfolio-by-jeka': PortfolioByJekaCover,
@@ -87,7 +90,9 @@ const customCovers: Record<string, any> = {
 				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="UX/UI">{t('categories.uxui')}</button>
 				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Tatuaje">{t('categories.tattoo')}</button>
 				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Branding">{t('categories.branding')}</button>
-				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Illustraciones">{t('categories.illustrations')}</button>
+				{hasIllustrations && (
+					<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Ilustraciones">{t('categories.illustrations')}</button>
+				)}
 				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Social Media">{t('categories.social')}</button>
 				<button class="filter-btn text-gray-400 hover:text-black transition-all duration-300 pb-1 md:pb-8 md:-mb-[34px] border-b-2 border-transparent" data-filter="Comunidad">{t('categories.community')}</button>
 			</div>
@@ -175,10 +180,10 @@ const customCovers: Record<string, any> = {
 			btn.addEventListener('click', () => {
 				filterButtons.forEach(b => {
 					b.classList.remove('active', 'text-[#E0A4B0]', 'border-[#E0A4B0]');
-					b.classList.add('text-gray-400', 'border-transparent');
+					b.classList.add('text-gray-400', 'border-transparent', 'hover:text-black');
 				});
 				btn.classList.add('active', 'text-[#E0A4B0]', 'border-[#E0A4B0]');
-				btn.classList.remove('text-gray-400', 'border-transparent');
+				btn.classList.remove('text-gray-400', 'border-transparent', 'hover:text-black');
 
 				const filter = btn.getAttribute('data-filter');
 				const isAll = filter === 'all';
