@@ -152,19 +152,19 @@ Content in motion: process, product in action and small stories from the bakery.
 <div class="not-prose grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-6 my-16 max-w-5xl mx-auto items-start">
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[-2deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-01-palmeritas.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-01-palmeritas.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Palmeritas</div>
     </div>
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[1deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs md:mt-10">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-02-tienda.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-02-tienda.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Shop</div>
     </div>
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[-1deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-03-panquinoa.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-03-panquinoa.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Quinoa bread</div>
     </div>
@@ -185,3 +185,24 @@ Content in motion: process, product in action and small stories from the bakery.
 - **The process sells more than the product:** showing hands, flour and oven connects better than a perfect still life.
 - **Craft needs rhythm:** alternating product, people and process avoids saturation.
 - **Listen to the community:** stories and comments are a real source of content.
+
+<script>
+  (() => {
+    const vids = document.querySelectorAll('video[data-src]');
+    if (!vids.length) return;
+    const load = (v) => {
+      if (v.dataset.loaded) return;
+      v.dataset.loaded = '1';
+      v.src = v.dataset.src;
+      const p = v.play();
+      if (p) p.catch(() => {});
+    };
+    if (!('IntersectionObserver' in window)) { vids.forEach(load); return; }
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) { load(e.target); obs.unobserve(e.target); }
+      });
+    }, { rootMargin: '400px' });
+    vids.forEach((v) => obs.observe(v));
+  })();
+</script>
