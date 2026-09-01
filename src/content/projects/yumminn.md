@@ -4,7 +4,7 @@ description: "De un MVP confuso a una solución SaaS líder: optimizando el pago
 role: "UX/UI Designer"
 tools: ["Figma", "Google Analytics", "Adobe Illustrator", "Notion", "User Testing"]
 type: "SaaS Product & Web-app"
-image: "/pj-yumminn-cover.png"
+image: "/pj-yumminn-cover.avif"
 pubDate: 2024-03-04
 featured: true
 lang: "es"
@@ -41,7 +41,7 @@ Para la segunda iteración, trabajé estrechamente con el equipo de operaciones 
 **El gran hallazgo:** Una vez resuelta la funcionalidad técnica, el desafío era la diferenciación. Los restaurantes no querían una herramienta genérica; querían que la WebApp fuera una extensión de su propia marca. Transformamos la interfaz en una experiencia personalizada que respira la identidad de cada local, logrando que el pago no sea un trámite, sino el cierre perfecto de la cena.
 
 <div class="not-prose my-16">
-    <img src="/pj-yumminn-designsystem.png"
+    <img src="/pj-yumminn-designsystem.avif"
         alt="Design system de Yumminn"
         class="w-full h-auto object-contain" loading="lazy" decoding="async" width="11114" height="2700" />
 </div>

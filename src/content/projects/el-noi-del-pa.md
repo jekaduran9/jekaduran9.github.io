@@ -4,7 +4,7 @@ description: "Redefiniendo la experiencia sin gluten en Barcelona: una plataform
 role: "Product Designer & E-commerce Strategist"
 tools: ["Figma", "Wix", "Notion", "Adobe Photoshop", "Glovo Integration"]
 type: "E-commerce & Digital Identity"
-image: "/cover-elnoidelpa.jpg"
+image: "/cover-elnoidelpa.avif"
 pubDate: 2024-03-05
 featured: true
 lang: "es"

@@ -4,7 +4,7 @@ description: "I led Salonomi's visual and functional evolution, transforming a t
 role: "Product Designer & Brand Lead"
 tools: ["Figma", "Google Analytics", "Illustrator", "Canva", "Trello", "Wix"]
 type: "Mobile App & Branding"
-image: "/pj-salonomi-cover.png"
+image: "/pj-salonomi-cover.avif"
 pubDate: 2024-03-02
 featured: true
 lang: "en"

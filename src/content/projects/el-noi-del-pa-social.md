@@ -4,7 +4,7 @@ description: "Dirección creativa y producción de contenido para redes sociales
 role: "Content Creator & Social Media Designer"
 tools: ["Instagram", "Reels", "Photography", "Canva", "CapCut", "Adobe Lightroom"]
 type: "Social Media & Content Creation"
-image: "/noi-social/post-05-croissant.jpg"
+image: "/noi-social/post-05-croissant.avif"
 pubDate: 2026-04-24
 featured: true
 lang: "es"
@@ -101,46 +101,46 @@ Luz natural, tonos tostados y ocres, composiciones cercanas y detalle de textura
 
 <div class="not-prose grid grid-cols-3 gap-2 md:gap-3 my-10 max-w-5xl mx-auto">
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-04-croissandfest.png" alt="Croissandfest" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-04-croissandfest.avif" alt="Croissandfest" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-05-croissant.jpg" alt="Croissant" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-05-croissant.avif" alt="Croissant" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-01-bretzel.png" alt="Bretzel cabello de ángel" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-01-bretzel.avif" alt="Bretzel cabello de ángel" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-02-bandeja.jpg" alt="Bandeja de pan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-02-bandeja.avif" alt="Bandeja de pan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-11-nuestraweb.png" alt="Nueva web" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-11-nuestraweb.avif" alt="Nueva web" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-12-panmolde.png" alt="Pan de molde" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-12-panmolde.avif" alt="Pan de molde" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-07-sabadell.png" alt="Eventos Sabadell" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-07-sabadell.avif" alt="Eventos Sabadell" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-14-santjoan.jpg" alt="Sant Joan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-14-santjoan.avif" alt="Sant Joan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-09-monas.png" alt="Monas de Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-09-monas.avif" alt="Monas de Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-10-monaspascua.png" alt="Monas de Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-10-monaspascua.avif" alt="Monas de Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-06-dragon.jpg" alt="Sant Jordi" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-06-dragon.avif" alt="Sant Jordi" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-08-horripascua.png" alt="Horri Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-08-horripascua.avif" alt="Horri Pascua" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-03-corbata.png" alt="Corbata" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-03-corbata.avif" alt="Corbata" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-13-special.jpg" alt="Producto especial" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
+        <img src="/noi-social/post-13-special.avif" alt="Producto especial" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
 </div>
 

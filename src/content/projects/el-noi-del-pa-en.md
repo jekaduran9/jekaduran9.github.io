@@ -4,7 +4,7 @@ description: "Redefining the gluten-free experience in Barcelona: a 360º digita
 role: "Product Designer & E-commerce Strategist"
 tools: ["Figma", "Wix", "Notion", "Adobe Photoshop", "Glovo Integration"]
 type: "E-commerce & Digital Identity"
-image: "/cover-elnoidelpa.jpg"
+image: "/cover-elnoidelpa.avif"
 pubDate: 2024-03-05
 featured: true
 lang: "en"

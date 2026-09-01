@@ -10,7 +10,7 @@ featured: true
 lang: "es"
 category: "Comunidad"
 aspectRatio: "aspect-[4/5]"
-heroImage: "/fof-barcelona/evento-0435.jpg"
+heroImage: "/fof-barcelona/evento-0435.avif"
 heroAspect: "aspect-video"
 ---
 
@@ -43,7 +43,7 @@ Cada evento se sostiene sobre un equipo de voluntarios. Yo formo parte de ese **
 
 <figure class="not-prose my-16 max-w-5xl mx-auto">
     <div class="overflow-hidden bg-gray-100">
-        <img src="/fof-barcelona/config-68.jpg" alt="Asistentes charlando en la terraza durante un evento de Friends of Figma Barcelona" class="w-full h-auto object-cover" style="margin:0" loading="lazy" decoding="async" width="1800" height="1200" />
+        <img src="/fof-barcelona/config-68.avif" alt="Asistentes charlando en la terraza durante un evento de Friends of Figma Barcelona" class="w-full h-auto object-cover" style="margin:0" loading="lazy" decoding="async" width="1800" height="1200" />
     </div>
     <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Config Watch Party · Terraza, Barcelona</figcaption>
 </figure>
@@ -62,7 +62,7 @@ Ese recorrido es justo lo que me hace útil en el rol. Sé exactamente dónde se
     <img src="/fof-barcelona/stickers/heart-red.png" alt="" aria-hidden="true" class="hidden lg:block absolute -left-24 bottom-8 w-20 rotate-[-12deg] pointer-events-none select-none" style="margin:0;border-radius:0" loading="lazy" decoding="async" />
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-12 items-center">
         <div class="overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/staff-05.jpg" alt="Invitación al Config Watch Party de Barcelona" class="w-full h-auto object-cover" style="margin:0" loading="lazy" decoding="async" width="1100" height="1100" />
+            <img src="/fof-barcelona/staff-05.avif" alt="Invitación al Config Watch Party de Barcelona" class="w-full h-auto object-cover" style="margin:0" loading="lazy" decoding="async" width="1100" height="1100" />
         </div>
         <div class="overflow-hidden bg-gray-100">
             <img src="/fof-barcelona/badge-config.jpg" alt="Acreditación del Config Watch Party de Barcelona, personalizada con stickers de Figma" class="w-full h-auto object-cover" style="margin:0" loading="lazy" decoding="async" width="721" height="1100" />
@@ -106,13 +106,13 @@ El trabajo que se nota es el que nadie ve. Mi parte empieza horas —a veces sem
         <img src="/fof-barcelona/junio-7.jpg" alt="Manos preparando packs de stickers de Figma" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100">
-        <img src="/fof-barcelona/junio-6.jpg" alt="Equipo de staff montando materiales antes de abrir puertas" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
+        <img src="/fof-barcelona/junio-6.avif" alt="Equipo de staff montando materiales antes de abrir puertas" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100">
-        <img src="/fof-barcelona/junio-39.jpg" alt="Mesa de merchandising preparada antes del evento" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
+        <img src="/fof-barcelona/junio-39.avif" alt="Mesa de merchandising preparada antes del evento" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100">
-        <img src="/fof-barcelona/config-43.jpg" alt="Staff preparando el punto de registro" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
+        <img src="/fof-barcelona/config-43.avif" alt="Staff preparando el punto de registro" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
 </div>
 
@@ -148,7 +148,7 @@ Es un rol que se hace con nombres, memoria y una pregunta preparada. Funciona cu
         <img src="/fof-barcelona/junio-44.jpg" alt="Entregando la gorra de Figma a una asistente en la entrada" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100">
-        <img src="/fof-barcelona/junio-42.jpg" alt="Asistentes recibiendo su welcome pack al llegar" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
+        <img src="/fof-barcelona/junio-42.avif" alt="Asistentes recibiendo su welcome pack al llegar" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100">
         <img src="/fof-barcelona/staff-01.jpg" alt="Punto de registro en la entrada del evento" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" />
@@ -188,28 +188,28 @@ Es un rol que se hace con nombres, memoria y una pregunta preparada. Funciona cu
     <img src="/fof-barcelona/stickers/hex-cyan.png" alt="" aria-hidden="true" class="hidden lg:block absolute -right-24 top-80 w-20 rotate-[-7deg] pointer-events-none select-none z-10" style="margin:0;border-radius:0" loading="lazy" decoding="async" />
     <div class="columns-2 md:columns-3 gap-3 md:gap-4 space-y-3 md:space-y-4 my-12">
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/config-28.jpg" alt="El equipo de staff con los globos de CONFIG BCN" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
+            <img src="/fof-barcelona/config-28.avif" alt="El equipo de staff con los globos de CONFIG BCN" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
             <img src="/fof-barcelona/junio-9.jpg" alt="El logo de Figma hecho con piñatas en la entrada del evento" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="733" height="1100" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/junio-33.jpg" alt="Foto de familia del staff sobre el escenario" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
+            <img src="/fof-barcelona/junio-33.avif" alt="Foto de familia del staff sobre el escenario" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/momento-03.jpg" alt="La sala llena durante una charla" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
+            <img src="/fof-barcelona/momento-03.avif" alt="La sala llena durante una charla" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/staff-02.jpg" alt="Parte del equipo de staff con las gorras de Figma" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
+            <img src="/fof-barcelona/staff-02.avif" alt="Parte del equipo de staff con las gorras de Figma" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
             <img src="/fof-barcelona/evento-0404.jpg" alt="Globos dorados de CONFIG BCN en la pared" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/febrero-31.jpg" alt="Foto de grupo del evento patrocinado por div RIOTS" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
+            <img src="/fof-barcelona/febrero-31.avif" alt="Foto de grupo del evento patrocinado por div RIOTS" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/momento-01.jpg" alt="Photocall del Config Watch Party de Barcelona" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
+            <img src="/fof-barcelona/momento-01.avif" alt="Photocall del Config Watch Party de Barcelona" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
             <img src="/fof-barcelona/junio-100.jpg" alt="Sorteo de merchandising de Figma sobre el escenario" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
@@ -221,7 +221,7 @@ Es un rol que se hace con nombres, memoria y una pregunta preparada. Funciona cu
             <img src="/fof-barcelona/evento-0317.jpg" alt="El staff celebrando el cierre del evento sobre el escenario" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="1100" height="733" />
         </div>
         <div class="break-inside-avoid overflow-hidden bg-gray-100">
-            <img src="/fof-barcelona/momento-02.jpg" alt="Retrato con la gorra de Figma en el venue" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
+            <img src="/fof-barcelona/momento-02.avif" alt="Retrato con la gorra de Figma en el venue" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-500" style="margin:0" loading="lazy" decoding="async" width="825" height="1100" />
         </div>
     </div>
 </div>

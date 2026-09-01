@@ -4,7 +4,7 @@ description: "Rediseño estratégico para transformar una web corporativa en un 
 role: "UX/UI Designer"
 tools: ["Figma", "Design Thinking", "WordPress 6.4"]
 type: "Ecosistema Digital"
-image: "/pj-findasense-cover.png"
+image: "/pj-findasense-cover.avif"
 pubDate: 2024-03-07
 featured: true
 lang: "es"
@@ -71,7 +71,7 @@ Diseñé en Figma con un UI Kit pensado para WordPress 6.4 desde el día uno. La
             class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="655" />
     </div>
     <div class="flex justify-center animate-slide-right-delayed">
-        <img src="/pj-lowfi-prototype-mobile-findasense.png" 
+        <img src="/pj-lowfi-prototype-mobile-findasense.avif" 
             alt="Wireframe Low-Fi Mobile" 
             class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="1839" />
     </div>
@@ -182,7 +182,7 @@ Una sola familia tipográfica — **Montserrat** — utilizada en todos los peso
 La coma del logo dejó de ser un detalle tipográfico para convertirse en el recurso visual que articula todo el sistema. La usé como contenedor de retratos, marco para hero illustrations, fondo en testimonios y elemento decorativo. Una sola pieza, muchos roles — siempre con la misma forma, distintos pesos.
 
 <div class="not-prose mt-8">
-  <img src="/Findasense/pj-findasense-coma2.png" 
+  <img src="/Findasense/pj-findasense-coma2.avif" 
     alt="Aplicaciones de la coma del logo: marcos de retrato, hero illustrations, testimonios y elementos decorativos"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1915" height="2432" />
 </div>
@@ -192,7 +192,7 @@ La coma del logo dejó de ser un detalle tipográfico para convertirse en el rec
 El resultado: una web que cuenta lo que hace antes que quién es. Hero directo, casos de éxito en el primer scroll, formulario sin fricción y una identidad visual coherente de principio a fin.
 
 <div class="not-prose mt-8">
-  <img src="/Findasense/pf-findasense-prototype-desktop.jpg" 
+  <img src="/Findasense/pf-findasense-prototype-desktop.avif" 
     alt="Prototipo final desktop: recorrido completo de la web rediseñada"
     class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="3000" height="1013" />
   <p class="text-[10px] uppercase tracking-[0.3em] text-gray-400 font-bold mt-4">Recorrido completo · Desktop</p>
@@ -270,7 +270,7 @@ Explora la experiencia diseñada para el ecosistema global de Findasense.
             </div>
         </div>
         <div class="aspect-video w-full bg-gray-100 border-x border-b border-black/5 rounded-b-xl overflow-hidden shadow-xl group-hover:shadow-2xl transition-all duration-500 relative">
-            <img src="/pj-findasense-prototype.png" 
+            <img src="/pj-findasense-prototype.avif" 
                 alt="Findasense Website Preview" 
                 class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700" loading="lazy" decoding="async" />
             <div class="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors flex items-center justify-center">

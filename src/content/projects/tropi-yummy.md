@@ -4,7 +4,7 @@ description: "De un producto delicioso a una marca vibrante: construyendo una id
 role: "Product Designer & Art Director"
 tools: ["Figma", "AI Image Generation", "Adobe Lightroom", "Photoshop"]
 type: "Branding & Visual Identity"
-image: "/cover2-tropiyummy.png"
+image: "/cover2-tropiyummy.avif"
 pubDate: 2024-03-06
 featured: true
 lang: "es"

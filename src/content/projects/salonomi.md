@@ -4,7 +4,7 @@ description: "Lideré la evolución visual y funcional de Salonomi, transformand
 role: "Product Designer & Brand Lead"
 tools: ["Figma", "Google Analytics", "Illustrator", "Canva", "Trello", "Wix"]
 type: "App Móvil & Branding"
-image: "/pj-salonomi-cover.png" # Ajustado para seguir el patrón de nombres del proyecto, aunque no esté en public aún
+image: "/pj-salonomi-cover.avif" # Ajustado para seguir el patrón de nombres del proyecto, aunque no esté en public aún
 pubDate: 2024-03-02
 featured: true
 lang: "es"
