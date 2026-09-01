@@ -108,7 +108,7 @@ const customCovers: Record<string, any> = {
 							{(() => {
 								const FeaturedCover = customCovers[featured.slug];
 								if (FeaturedCover) return <FeaturedCover size="lg" />;
-								if (featuredImagePath) return <img src={featuredImagePath} alt={featured.data.title} class="w-full h-full object-cover" />;
+								if (featuredImagePath) return <img src={featuredImagePath} alt={featured.data.title} class="w-full h-full object-cover" loading="lazy" decoding="async" />;
 								return <div class="w-full h-full flex items-center justify-center text-gray-400 font-serif italic">{featured.data.title}</div>;
 							})()}
 						</div>
@@ -150,7 +150,7 @@ const customCovers: Record<string, any> = {
 							{(() => {
 								const Cover = customCovers[project.slug];
 								if (Cover) return <Cover />;
-								if (imagePath) return <img src={imagePath} alt={project.data.title} class="w-full h-full object-cover" />;
+								if (imagePath) return <img src={imagePath} alt={project.data.title} class="w-full h-full object-cover" loading="lazy" decoding="async" />;
 								return <div class="w-full h-full flex items-center justify-center text-gray-400 font-serif italic">{project.data.title}</div>;
 							})()}
 						</div>

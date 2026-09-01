@@ -42,7 +42,7 @@ Antes de diseñar, me sumergí en el universo tropical para entender desde dónd
 
 <figure class="not-prose my-12 max-w-5xl mx-auto">
     <div class="overflow-hidden bg-gray-100">
-        <img src="/tropi-yummy/moodboard.avif" alt="Moodboard de inspiración tropical para Tropi Yummy" class="w-full h-auto object-cover" />
+        <img src="/tropi-yummy/moodboard.avif" alt="Moodboard de inspiración tropical para Tropi Yummy" class="w-full h-auto object-cover" loading="lazy" decoding="async" width="3318" height="2056" />
     </div>
     <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Moodboard · Universo visual de la marca</figcaption>
 </figure>
@@ -61,20 +61,20 @@ El logo de Tropi Yummy debía transmitir frescura y diversidad desde el primer v
 <div class="not-prose grid grid-cols-1 md:grid-cols-2 gap-6 my-12 max-w-6xl mx-auto items-stretch">
     <figure class="flex flex-col">
         <div class="overflow-hidden bg-[#ee2a7b] flex-1 flex items-center justify-center">
-            <img src="/tropi-yummy/logo.avif" alt="Logotipo Tropi Yummy" class="w-full h-full object-contain" />
+            <img src="/tropi-yummy/logo.avif" alt="Logotipo Tropi Yummy" class="w-full h-full object-contain" loading="lazy" decoding="async" />
         </div>
         <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Logotipo principal · Embajador de la marca</figcaption>
     </figure>
     <div class="flex flex-col gap-6">
         <figure class="flex flex-col flex-1">
             <div class="overflow-hidden bg-[#F1EDE4] flex-1">
-                <img src="/tropi-yummy/paleta-colores.avif" alt="Paleta cromática Tropi Yummy" class="w-full h-full object-cover" />
+                <img src="/tropi-yummy/paleta-colores.avif" alt="Paleta cromática Tropi Yummy" class="w-full h-full object-cover" loading="lazy" decoding="async" />
             </div>
             <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Paleta cromática</figcaption>
         </figure>
         <figure class="flex flex-col flex-1">
             <div class="overflow-hidden bg-[#e7b845] flex-1">
-                <img src="/tropi-yummy/fuentes.avif" alt="Sistema tipográfico Tropi Yummy" class="w-full h-full object-cover" />
+                <img src="/tropi-yummy/fuentes.avif" alt="Sistema tipográfico Tropi Yummy" class="w-full h-full object-cover" loading="lazy" decoding="async" />
             </div>
             <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Sistema tipográfico</figcaption>
         </figure>
@@ -92,20 +92,20 @@ Tras la apertura, integré fotografía real del local con un proceso exhaustivo 
 <div class="not-prose grid grid-cols-1 md:grid-cols-2 gap-6 my-12 max-w-6xl mx-auto items-stretch">
     <figure class="flex flex-col">
         <div class="overflow-hidden bg-gray-100 flex-1">
-            <img src="/tropi-yummy/tienda.avif" alt="Aplicación de marca en el local físico" class="w-full h-full object-cover" />
+            <img src="/tropi-yummy/tienda.avif" alt="Aplicación de marca en el local físico" class="w-full h-full object-cover" loading="lazy" decoding="async" />
         </div>
         <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Local físico · Aplicación de marca en Barcelona</figcaption>
     </figure>
     <div class="flex flex-col gap-6">
         <figure class="flex flex-col flex-1">
             <div class="overflow-hidden bg-gray-100 flex-1">
-                <img src="/tropi-yummy/menu.avif" alt="Diseño de menú Tropi Yummy" class="w-full h-full object-cover" />
+                <img src="/tropi-yummy/menu.avif" alt="Diseño de menú Tropi Yummy" class="w-full h-full object-cover" loading="lazy" decoding="async" />
             </div>
             <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Carta digital · Producto como protagonista</figcaption>
         </figure>
         <figure class="flex flex-col flex-1">
             <div class="overflow-hidden bg-gray-100 flex-1">
-                <img src="/tropi-yummy/menu-2.avif" alt="Variante del menú Tropi Yummy" class="w-full h-full object-cover" />
+                <img src="/tropi-yummy/menu-2.avif" alt="Variante del menú Tropi Yummy" class="w-full h-full object-cover" loading="lazy" decoding="async" />
             </div>
             <figcaption class="text-xs uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Carta digital · Variante de producto</figcaption>
         </figure>
@@ -121,14 +121,14 @@ La identidad se trasladó al ecosistema digital con un feed coherente, donde cad
 <div class="not-prose my-20 max-w-6xl mx-auto px-4">
     <div class="grid grid-cols-1 md:grid-cols-12 gap-10 md:gap-6 items-center">
         <figure class="md:col-span-3 transition-transform duration-500 md:transform md:-rotate-6 md:translate-y-10 hover:!rotate-0 hover:!translate-y-0">
-            <img src="/tropi-yummy/post-1.avif" alt="Pieza de campaña Tropi Yummy" class="w-full h-auto object-contain" style="filter: drop-shadow(0 25px 35px rgba(0,0,0,0.25));" />
+            <img src="/tropi-yummy/post-1.avif" alt="Pieza de campaña Tropi Yummy" class="w-full h-auto object-contain" style="filter: drop-shadow(0 25px 35px rgba(0,0,0,0.25));" loading="lazy" decoding="async" width="838" height="1302" />
             <figcaption class="text-[10px] uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Campaña · 01</figcaption>
         </figure>
         <div class="md:col-span-6 flex justify-center relative z-10">
             <div class="relative w-full max-w-[320px]">
                 <div class="relative bg-neutral-900 rounded-[2.4rem] p-2 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.45)] ring-1 ring-neutral-800">
                     <div class="relative bg-black rounded-[1.9rem] overflow-hidden aspect-[556/1066]">
-                        <img src="/tropi-yummy/instagram.avif" alt="Feed de Instagram Tropi Yummy" class="absolute inset-0 w-full h-full object-cover" />
+                        <img src="/tropi-yummy/instagram.avif" alt="Feed de Instagram Tropi Yummy" class="absolute inset-0 w-full h-full object-cover" loading="lazy" decoding="async" />
                     </div>
                     <div class="absolute -left-[3px] top-20 w-[3px] h-8 bg-neutral-800 rounded-l"></div>
                     <div class="absolute -left-[3px] top-32 w-[3px] h-14 bg-neutral-800 rounded-l"></div>
@@ -139,7 +139,7 @@ La identidad se trasladó al ecosistema digital con un feed coherente, donde cad
             </div>
         </div>
         <figure class="md:col-span-3 transition-transform duration-500 md:transform md:rotate-6 md:-translate-y-10 hover:!rotate-0 hover:!translate-y-0">
-            <img src="/tropi-yummy/post-2.avif" alt="Pieza de campaña Tropi Yummy" class="w-full h-auto object-contain" style="filter: drop-shadow(0 25px 35px rgba(0,0,0,0.25));" />
+            <img src="/tropi-yummy/post-2.avif" alt="Pieza de campaña Tropi Yummy" class="w-full h-auto object-contain" style="filter: drop-shadow(0 25px 35px rgba(0,0,0,0.25));" loading="lazy" decoding="async" width="838" height="1302" />
             <figcaption class="text-[10px] uppercase tracking-widest text-gray-400 font-bold mt-4 text-center">Campaña · 02</figcaption>
         </figure>
     </div>

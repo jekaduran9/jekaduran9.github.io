@@ -101,46 +101,46 @@ Natural light, toasted and ocher tones, close compositions and textural detail. 
 
 <div class="not-prose grid grid-cols-3 gap-2 md:gap-3 my-10 max-w-5xl mx-auto">
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-04-croissandfest.png" alt="Croissandfest" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-04-croissandfest.png" alt="Croissandfest" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-05-croissant.jpg" alt="Croissant" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-05-croissant.jpg" alt="Croissant" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-01-bretzel.png" alt="Bretzel" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-01-bretzel.png" alt="Bretzel" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-02-bandeja.jpg" alt="Bread tray" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-02-bandeja.jpg" alt="Bread tray" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-11-nuestraweb.png" alt="New website" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-11-nuestraweb.png" alt="New website" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-12-panmolde.png" alt="Sandwich bread" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-12-panmolde.png" alt="Sandwich bread" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-07-sabadell.png" alt="Sabadell events" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-07-sabadell.png" alt="Sabadell events" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-14-santjoan.jpg" alt="Sant Joan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-14-santjoan.jpg" alt="Sant Joan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-09-monas.png" alt="Easter cakes" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-09-monas.png" alt="Easter cakes" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-10-monaspascua.png" alt="Easter cakes" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-10-monaspascua.png" alt="Easter cakes" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-06-dragon.jpg" alt="Sant Jordi" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-06-dragon.jpg" alt="Sant Jordi" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-08-horripascua.png" alt="Easter campaign" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-08-horripascua.png" alt="Easter campaign" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-03-corbata.png" alt="Tie" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-03-corbata.png" alt="Tie" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
     <div class="aspect-[4/5] overflow-hidden bg-gray-100 group relative">
-        <img src="/noi-social/post-13-special.jpg" alt="Special product" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+        <img src="/noi-social/post-13-special.jpg" alt="Special product" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" />
     </div>
 </div>
 
@@ -152,19 +152,19 @@ Content in motion: process, product in action and small stories from the bakery.
 <div class="not-prose grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-6 my-16 max-w-5xl mx-auto items-start">
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[-2deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-01-palmeritas.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-01-palmeritas.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Palmeritas</div>
     </div>
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[1deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs md:mt-10">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-02-tienda.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-02-tienda.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Shop</div>
     </div>
     <div class="bg-white p-3 pb-12 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.15)] rotate-[-1deg] hover:rotate-0 transition-transform duration-500 mx-auto w-full max-w-xs">
         <div class="aspect-[4/5] overflow-hidden bg-[#F1EDE4]">
-            <video src="/noi-social/reel-03-panquinoa.mp4" class="w-full h-full object-cover" autoplay loop muted playsinline></video>
+            <video data-src="/noi-social/reel-03-panquinoa.mp4" class="w-full h-full object-cover" preload="none" autoplay loop muted playsinline></video>
         </div>
         <div class="pt-4 text-center font-serif italic text-sm text-neutral-600">Quinoa bread</div>
     </div>
@@ -185,3 +185,24 @@ Content in motion: process, product in action and small stories from the bakery.
 - **The process sells more than the product:** showing hands, flour and oven connects better than a perfect still life.
 - **Craft needs rhythm:** alternating product, people and process avoids saturation.
 - **Listen to the community:** stories and comments are a real source of content.
+
+<script>
+  (() => {
+    const vids = document.querySelectorAll('video[data-src]');
+    if (!vids.length) return;
+    const load = (v) => {
+      if (v.dataset.loaded) return;
+      v.dataset.loaded = '1';
+      v.src = v.dataset.src;
+      const p = v.play();
+      if (p) p.catch(() => {});
+    };
+    if (!('IntersectionObserver' in window)) { vids.forEach(load); return; }
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) { load(e.target); obs.unobserve(e.target); }
+      });
+    }, { rootMargin: '400px' });
+    vids.forEach((v) => obs.observe(v));
+  })();
+</script>
