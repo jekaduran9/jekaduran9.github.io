@@ -45,6 +45,7 @@ export const ui = {
     'categories.branding': 'Branding',
     'categories.illustrations': 'Illustraciones',
     'categories.social': 'Social Media',
+    'categories.community': 'Comunidad',
   },
   en: {
     'nav.home': 'Home',
@@ -85,5 +86,6 @@ export const ui = {
     'categories.branding': 'Branding',
     'categories.illustrations': 'Illustrations',
     'categories.social': 'Social Media',
+    'categories.community': 'Community',
   },
 } as const;
