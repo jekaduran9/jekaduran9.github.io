@@ -122,6 +122,12 @@ body {
   text-transform: uppercase;
 }
 
+/* Los separadores `---` del markdown no se dibujan: la division de secciones
+   la marca el borde sutil del h2 */
+.case-study-prose hr {
+  display: none;
+}
+
 .case-study-prose h3 {
   font-family: var(--font-inter);
   font-size: 0.625rem;
