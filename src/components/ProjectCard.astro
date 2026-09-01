@@ -21,7 +21,7 @@ const imagePath = image;
 			<img 
 				src={imagePath} 
 				alt={title}
-				class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+				loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
 			/>
 		) : (
 			<div class="w-full h-full bg-gray-200 flex items-center justify-center text-gray-400 font-serif italic text-xs">

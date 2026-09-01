@@ -41,11 +41,9 @@ For the second iteration, I worked closely with the operations team and did fiel
 **The big finding:** Once the technical functionality was resolved, the challenge was differentiation. Restaurants didn't want a generic tool; they wanted the WebApp to be an extension of their own brand. We transformed the interface into a personalized experience that breathes each local's identity, ensuring that payment is not just a procedure, but the perfect close to the dinner.
 
 <div class="not-prose my-16">
-    <img
-        src="/pj-yumminn-designsystem.png"
+    <img src="/pj-yumminn-designsystem.png"
         alt="Yumminn design system"
-        class="w-full h-auto object-contain"
-    />
+        class="w-full h-auto object-contain" loading="lazy" decoding="async" width="11114" height="2700" />
 </div>
 
 ## Results and Impact

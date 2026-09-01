@@ -48,11 +48,9 @@ With the audit on the table, I narrowed the redesign down to three pillars. Each
 I rewrote the sitemap by flipping the traditional order: what we do first, who we are after. Conversion and expertise come first; the company history, behind.
 
 <div class="not-prose my-16 overflow-hidden rounded-2xl">
-    <img 
-        src="/pj-findasense-sitemap.svg" 
+    <img src="/pj-findasense-sitemap.svg" 
         alt="Findasense Sitemap" 
-        class="w-full h-auto object-contain"
-    />
+        class="w-full h-auto object-contain" loading="lazy" decoding="async" />
 </div>
 
 Two decisions came with this restructuring:
@@ -68,18 +66,14 @@ I designed in Figma with a UI Kit built for WordPress 6.4 from day one. The rule
 
 <div class="not-prose my-16 space-y-10">
     <div class="animate-slide-right">
-        <img 
-            src="/pj-lowfi-prototype-desktop-findasense.png" 
+        <img src="/pj-lowfi-prototype-desktop-findasense.png" 
             alt="Low-Fi Wireframe Desktop" 
-            class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90"
-        />
+            class="zoomable cursor-zoom-in w-full h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="655" />
     </div>
     <div class="flex justify-center animate-slide-right-delayed">
-        <img 
-            src="/pj-lowfi-prototype-mobile-findasense.png" 
+        <img src="/pj-lowfi-prototype-mobile-findasense.png" 
             alt="Low-Fi Wireframe Mobile" 
-            class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90"
-        />
+            class="zoomable cursor-zoom-in w-full max-w-sm h-auto object-contain transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1920" height="1839" />
     </div>
 </div>
 
@@ -188,11 +182,9 @@ A single typeface — **Montserrat** — used across all weights to keep a coher
 The comma from the logo stopped being a typographic detail and became the visual device that ties the whole system together. I used it as a portrait container, a frame for hero illustrations, a background for testimonials, and a decorative element. One shape, many roles — same form, different weights.
 
 <div class="not-prose mt-8">
-  <img 
-    src="/Findasense/pj-findasense-coma2.png" 
+  <img src="/Findasense/pj-findasense-coma2.png" 
     alt="Comma applications: portrait frames, hero illustrations, testimonials, and decorative elements"
-    class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
-  />
+    class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="1915" height="2432" />
 </div>
 
 ## Final prototype
@@ -200,11 +192,9 @@ The comma from the logo stopped being a typographic detail and became the visual
 The result: a website that says what it does before saying who it is. Direct hero, success stories on the first scroll, frictionless form, and a coherent visual identity from start to finish.
 
 <div class="not-prose mt-8">
-  <img 
-    src="/Findasense/pf-findasense-prototype-desktop.jpg" 
+  <img src="/Findasense/pf-findasense-prototype-desktop.jpg" 
     alt="Final prototype desktop: full scroll of the redesigned site"
-    class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90"
-  />
+    class="zoomable cursor-zoom-in w-full h-auto object-contain mix-blend-multiply transition-opacity hover:opacity-90" loading="lazy" decoding="async" width="3000" height="1013" />
   <p class="text-[10px] uppercase tracking-[0.3em] text-gray-400 font-bold mt-4">Full scroll · Desktop</p>
 </div>
 
@@ -280,11 +270,9 @@ Explore the experience designed for Findasense's global ecosystem.
             </div>
         </div>
         <div class="aspect-video w-full bg-gray-100 border-x border-b border-black/5 rounded-b-xl overflow-hidden shadow-xl group-hover:shadow-2xl transition-all duration-500 relative">
-            <img 
-                src="/pj-findasense-prototype.png" 
+            <img src="/pj-findasense-prototype.png" 
                 alt="Findasense Website Preview" 
-                class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700"
-            />
+                class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-700" loading="lazy" decoding="async" />
             <div class="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors flex items-center justify-center">
                 <div class="bg-black text-white text-[10px] font-bold uppercase tracking-[0.2em] px-6 py-3 rounded-full opacity-0 group-hover:opacity-100 transform translate-y-4 group-hover:translate-y-0 transition-all duration-500">
                     View live website
