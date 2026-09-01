@@ -16,6 +16,7 @@ const projects = defineCollection({
     heroVideo: z.string().optional(),
     heroImage: z.string().optional(),
     heroAspect: z.string().default('aspect-[4/3]'),
+    status: z.string().optional(),
   }),
 });
 
